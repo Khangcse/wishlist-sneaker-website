@@ -1,0 +1,19 @@
+.active{
+    color: #efbf04;
+}
+
+a {
+    color: #c2b067;
+    transition: all 0.1s;
+}
+a:hover{
+    color: #ffed29;
+}
+
+.header-divider{
+    border-left: 1px solid rgb(255, 254, 254);;
+    height: 30px;
+    margin: 0 10px;
+    position: relative;
+    vertical-align: middle;
+}

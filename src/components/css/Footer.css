@@ -1,0 +1,6 @@
+.footer-menu_item{
+    flex-basis: calc(25% - 28px);
+}
+.footer-menu_title{
+    font-weight: 800;
+}
