@@ -27,7 +27,7 @@ export default {
   			]
   		},
   		backgroundImage: {
-  			home_page_background: 'url('/zachary-keimig-7-y4xPd3QRI-unsplash.jpg')'
+  			home_page_background: "url('/zachary-keimig-7-y4xPd3QRI-unsplash.jpg')"
   		},
   		borderRadius: {
   			lg: 'var(--radius)',
